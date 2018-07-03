@@ -21,10 +21,6 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
  - :blush: Be nice, civil and polite ([as always](http://contributor-covenant.org/version/1/4/)).
  - :heart_eyes: If you include at least one emoji in your question, the feedback might come faster!
 
-### *In French? En Français ?*
-[In English / En anglais :gb::us:](https://github.com/piyushchauhan/ama)
-or [In French / En Français :fr:](https://github.com/piyushchauhan/ama.fr).
-
 ----
 
 ### Links
